@@ -357,7 +357,6 @@
 							this.handleY = percent * this.barMaxLength
 						}
 					}
-					
 				}
 				this.$emit("change", {bpname: this.bpname,type: 'change',value:this.showValue,subValue:this.msubValue})
 				this.$emit("valuechange", {bpname: this.bpname,type: 'valuechange',value:this.showValue,subValue:this.msubValue})

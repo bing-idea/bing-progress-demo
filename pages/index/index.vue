@@ -255,7 +255,6 @@
 		padding: 5px;
 		font-size: 16px;
 	}
-
 	.popup {
 		display: flex;
 		flex-direction: row;

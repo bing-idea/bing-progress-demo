@@ -2,7 +2,6 @@
 
 ![效果图](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-static/b1a3d970-414b-11eb-bd01-97bc1429a9ff.gif)
 + 属性
-
     |参数|默认值|类型|说明|
     |:---|:---|:---|:---|
 	|bpname||String|**新增**，组件名，触发事件的返回值中会包含该组件名|
